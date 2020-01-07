@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Addingnumbers</string>
+    <string name="heading_title">Adding Two Numbers</string>
+    <string name="result">RESULT</string>
+    <string name="result_text">TextView</string>
+</resources>
